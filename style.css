@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;    
+}
+.top-banner h1{
+    color: rgb(233, 19, 126);
+    font-size: 50px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 8%;
+    padding-right: 7%;
+}
+#header-size{
+    margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 600px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, deeppink, hotpink);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bgp-size{
+    margin-top: 200px;
+}
+.work-samble{
+    width: 100%;
+}
+.work-samble img{
+    width: 28%;
+    margin: 2%;
+    margin-top: 50px;
+}
+.exparience-area{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.exparience-area h1{
+    text-align: center;
+}
+.footer-area{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.footer-style{
+    border: 1px solid rgb(184, 8, 102);
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(136, 17, 80);
+    border-radius: 5px;
+    color:white;
+}
+footer{
+    font-size: 12px;
+    text-align: center;
+}
